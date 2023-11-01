@@ -13,6 +13,7 @@
         "g++",
         "jspwTest.cpp",
         "-o",
+
         "jspwTest",
         "&&",
         "jspwTest",
